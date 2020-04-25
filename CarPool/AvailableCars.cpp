@@ -1,8 +1,18 @@
-#include <cstsdio>
+#include <cstdio>
 #include <iostream>
 #include <vector>
 using namespace std;
 
-vector<int> getAvailableCars() {
-  
-}
+class AviablrCars
+{
+public:
+	int avialCars;
+
+	void printAivailableCars()
+	{
+		cout << avialCars;
+	}
+	vector<int> getAvailableCars() {
+
+	}
+};
